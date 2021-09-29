@@ -338,4 +338,4 @@ async def verify(ctx):
             await ctx.author.send(verify_msg(ctx.guild, check_on_join[1]))
 
 keep_alive()
-client.run(os.environ.get('DISCORD_TOKEN'))
+client.run(os.environ.get('ODkyODEwNjc2MzIwNDk3Njk1.YVSUvA.0Wv5L3-ipaDXTPXkJIhtgWlAkp0'))
