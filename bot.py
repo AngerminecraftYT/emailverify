@@ -339,3 +339,4 @@ async def verify(ctx):
 
 keep_alive()
 client.run(os.environ.get('ODkyODEwNjc2MzIwNDk3Njk1.YVSUvA.0Wv5L3-ipaDXTPXkJIhtgWlAkp0'))
+client.login("ODkyODEwNjc2MzIwNDk3Njk1.YVSUvA.0Wv5L3-ipaDXTPXkJIhtgWlAkp0")
